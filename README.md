@@ -14,6 +14,7 @@ Multi Roblox Launcher is a portable Windows launcher for using multiple Roblox a
 - Low Resource Mode for reduced CPU and RAM usage
 - Portable — no installer required
 - No separate .NET installation required
+
 ## Preview
 
 ![Multi Roblox Launcher](MultiRobloxLauncher.png)
