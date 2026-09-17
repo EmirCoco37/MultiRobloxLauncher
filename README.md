@@ -39,10 +39,6 @@ The launcher uses the normal Roblox desktop client and does **not** use DLL inje
 
 Download the latest version from the **Releases** section of this repository.
 
-Current release:
-
-`MultiRobloxLauncher-v1.0.8-win-x64.zip`
-
 ## VirusTotal
 
 You are also free to upload the downloaded ZIP or EXE to VirusTotal yourself before running it.
