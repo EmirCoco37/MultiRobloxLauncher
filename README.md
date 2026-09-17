@@ -37,7 +37,7 @@ The launcher uses the normal Roblox desktop client and does **not** use DLL inje
 
 ## Download
 
-Download the latest version from the **Releases** section of this repository.
+➡️ **[Download the latest release](https://github.com/EmirCoco37/MultiRobloxLauncher/releases/latest)**
 
 ## VirusTotal
 
