@@ -23,6 +23,7 @@ Multi Roblox Launcher is a portable Windows launcher for using multiple Roblox a
 
 - Windows 10 or Windows 11 x64
 - **The normal Roblox desktop player must already be installed**
+> ⚠️ **Important:** Before starting Multi Roblox Launcher, close all running Roblox clients and fully exit Roblox from the **Windows system tray**. Roblox running in the background can prevent multi-instance from working correctly.
 
 ## Security
 
@@ -40,15 +41,9 @@ Download the latest version from the **Releases** section of this repository.
 
 Current release:
 
-`MultiRobloxLauncher-v1.0.7-win-x64.zip`
+`MultiRobloxLauncher-v1.0.8-win-x64.zip`
 
 ## VirusTotal
-
-**ZIP:**  
-https://www.virustotal.com/gui/file/8ed7a2738de19566f5b110e5771b8e7820158653fd1ea6b39138e645aeeb4cef
-
-**EXE:**  
-https://www.virustotal.com/gui/file/24070f346a9b7504beee03362612fc8bcf1071f6bb309bd6e54ad56b133a09c2
 
 You are also free to upload the downloaded ZIP or EXE to VirusTotal yourself before running it.
 
@@ -56,7 +51,7 @@ You are also free to upload the downloaded ZIP or EXE to VirusTotal yourself bef
 
 1. Download the latest Windows x64 ZIP from Releases.
 2. Extract the ZIP.
-3. Close any running Roblox clients before the first start.
+3. Close all running Roblox clients and fully exit Roblox from the **Windows system tray** before starting Multi Roblox Launcher. Otherwise, multi-instance may not work correctly.
 4. Run `Multi Roblox Launcher.exe`.
 5. Click **Add Account** and sign in on the official Roblox website.
 6. Select an account, enter a Place ID, then click **Join Server**.
