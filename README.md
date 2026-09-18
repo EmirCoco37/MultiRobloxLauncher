@@ -29,7 +29,7 @@ The next 10-minute timer then starts automatically.
 
 ## Preview
 
-![Multi Roblox Launcher](MultiRobloxLauncher.png)
+![Multi Roblox Launcher](MultiRobloxLauncher-v1.1.1.png)
 
 ## Requirements
 
