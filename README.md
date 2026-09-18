@@ -40,10 +40,10 @@ Starting with v1.1.1, future updates are handled by the built-in **Auto Updater*
 2. Close all Roblox clients and fully exit Roblox from the Windows system tray.
 3. Run `Multi Roblox Launcher.exe`.
 4. Click **Add Account** and log in through the official Roblox website.
-5. Select an account and use:
+5. Select an account and use one of these:
    - **Join Server** with a Place ID
-   - **Private Server Link**
-   - **Follow** another Player
+   - Join another Player with **Follow Player**
+   - Join a Private Server with **Private Server Link**
 6. Optionally enable **Anti-AFK** and **Low Resource Mode**.
 
 > If you experience lag spikes after running Roblox for a few hours, try using **60 FPS instead of 30 FPS**. This will not affect Low Resource Mode.
