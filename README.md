@@ -43,7 +43,7 @@ Starting with v1.1.1, future updates are handled by the built-in **Auto Updater*
 5. Select an account and use:
    - **Join Server** with a Place ID
    - **Private Server Link**
-   - **Follow**
+   - **Follow** another Player
 6. Optionally enable **Anti-AFK** and **Low Resource Mode**.
 
 > If you experience lag spikes after running Roblox for a few hours, try using **60 FPS instead of 30 FPS**. This will not affect Low Resource Mode.
