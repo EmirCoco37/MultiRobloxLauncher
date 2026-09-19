@@ -36,7 +36,7 @@ Starting with v1.1.1, future updates are handled by the built-in **Auto Updater*
 
 ## Usage
 
-1. Download and extract the latest Windows x64 ZIP.
+1. **[Download and extract the latest Windows x64 ZIP](https://github.com/EmirCoco37/MultiRobloxLauncher/releases/latest)**
 2. Close all Roblox clients and fully exit Roblox from the Windows system tray.
 3. Run `Multi Roblox Launcher.exe`.
 4. Click **Add Account** and log in through the official Roblox website.
