@@ -28,11 +28,15 @@ Portable Windows launcher for managing multiple Roblox accounts and running mult
 
 ## Updating
 
-### Moving from an older version to v1.1.1
+If you are already using **v1.1.1 or newer**, updates are handled automatically by the built-in **Auto Updater**.
 
-If you already have accounts saved, copy your old **`Data`** folder into the new v1.1.1 folder once.
+Your saved accounts, settings, Data and Logs are preserved during updates.
 
-Starting with v1.1.1, future updates are handled by the built-in **Auto Updater**, so you will not need to copy the `Data` folder again.
+### Moving from a version older than v1.1.1
+
+If you already have accounts saved in an older version, download the latest release and copy your old **`Data`** folder into the new launcher folder once.
+
+After that, future updates will be handled automatically and you will not need to copy the `Data` folder again.
 
 ## Usage
 
