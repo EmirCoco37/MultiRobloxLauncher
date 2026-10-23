@@ -89,5 +89,5 @@ Multi Roblox Launcher is an independent project and is not affiliated with, endo
 
 ## Publisher
 
-**amvu**  
+Discord: **@amvu**  
 GitHub: **@EmirCoco37**
