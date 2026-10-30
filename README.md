@@ -44,7 +44,7 @@ No installer required. Download and extract the Windows x64 ZIP.
 
 ## Updating
 
-The built-in updater checks for new releases when you open the launcher. If no update prompt appears, go to **Settings > Check for Updates**.
+The built-in updater checks for new releases when you open the launcher. If no update prompt appears, scroll down and click on **> Check for Updates**.
 
 Your existing accounts, settings, `Data` and `Logs` are preserved during an automatic update.
 
