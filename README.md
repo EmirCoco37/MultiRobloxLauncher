@@ -6,14 +6,16 @@ A portable Windows launcher for managing multiple Roblox accounts and running mu
 
 ## Features
 
-- **Account Management** - Save multiple Roblox accounts with avatars, custom nicknames, favorites, drag-and-drop sorting, search and last-used information.
-- **Multi-Instance & Multi-Launch** - Run multiple Roblox clients and launch selected accounts sequentially with a configurable 1-10 second delay.
+- **Account Management** - Save multiple Roblox accounts with avatars, nicknames, favorites, drag-and-drop sorting, search and last-used information.
+- **Multi-Instance & Smart Launch Queue** - Run multiple Roblox clients and automatically wait for each client to be ready before launching the next.
 - **Launch Options** - Join games by Place ID, follow other players or join private servers using a link.
-- **Saved Games & Private Servers** - Save, edit and organize presets with automatic Roblox game name detection.
-- **Performance Controls** - Custom FPS limits (1-999 or Unlimited) and Low Resource Mode for background clients.
-- **Anti-AFK** - Runs immediately when enabled and repeats at a configurable 1-15 minute interval, including support for minimized windows.
-- **Quality of Life** - Roblox client counter, recent history, optional system tray mode and Roblox window size restoration.
-- **Utilities** - Settings import/export, detailed diagnostics, Close All Roblox and a built-in auto-updater.
+- **Saved Games & Private Servers** - Save, edit and organize presets with automatic game name detection and remembered selections.
+- **Live Account Status** - See which accounts are online and which Roblox games they are playing.
+- **Discord Rich Presence** - Display your current game, active client count and session timer, with automatic game detection and game selection.
+- **Window Manager** - Arrange Roblox clients in compact, grid or custom layouts without Anti-AFK changing their sizes.
+- **Performance Controls** - Custom FPS limits (1-999 or Unlimited) and Low Resource Mode with minimum Roblox graphics quality.
+- **Anti-AFK** - Choose Click or Jump mode with configurable 1-15 minute intervals, including minimized-window support.
+- **Utilities & Recovery** - Session history, system tray mode, settings import/export, diagnostics and an auto-updater with rollback.
 
 ## Preview
 
@@ -22,13 +24,9 @@ A portable Windows launcher for managing multiple Roblox accounts and running mu
 <details>
 <summary><strong>View more screenshots (Settings & Support)</strong></summary>
 
-### Settings - Performance & Anti-AFK
+### Settings
 
-![Multi Roblox Launcher - Settings, upper section](screenshots/settings-top.png)
-
-### Settings - Launcher & Tools
-
-![Multi Roblox Launcher - Settings, lower section](screenshots/settings-bottom.png)
+![Multi Roblox Launcher - Settings](screenshots/settings-top.png)
 
 ### Support
 
@@ -40,13 +38,13 @@ A portable Windows launcher for managing multiple Roblox accounts and running mu
 
 **[Download the latest release](https://github.com/EmirCoco37/MultiRobloxLauncher/releases/latest)**
 
-No installer required. Download and extract the Windows x64 ZIP.
+No installer required. Download and fully extract the Windows x64 ZIP.
 
 ## Updating
 
-The built-in updater checks for new releases when you open the launcher. If no update prompt appears, scroll down and click on **> Check for Updates**.
+The built-in updater checks for new releases when you open the launcher. If no update prompt appears, use **Settings → Check for Updates**.
 
-Your existing accounts, settings, `Data` and `Logs` are preserved during an automatic update.
+Your accounts, settings, `Data` and `Logs` are preserved during automatic updates.
 
 **Updating manually?** Extract the new release and copy your existing `Data` folder into the new launcher folder to keep your saved accounts and settings.
 
@@ -57,7 +55,7 @@ Your existing accounts, settings, `Data` and `Logs` are preserved during an auto
 3. Run `Multi Roblox Launcher.exe`.
 4. Click **Add Account** and sign in through the official Roblox website.
 5. Select one or more accounts and choose **Join Game**, **Follow Player** or **Private Server**.
-6. Optionally customize your FPS limit, Anti-AFK interval and Low Resource Mode under **Settings**.
+6. Optionally customize your FPS limit, Anti-AFK and Low Resource Mode under **Settings**.
 
 > **Tip:** If you notice lag spikes after running Roblox for several hours, try a 60 FPS limit instead of 30 FPS.
 
