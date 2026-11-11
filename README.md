@@ -6,16 +6,16 @@ A portable Windows launcher for managing multiple Roblox accounts and running mu
 
 ## Features
 
-- **Account Management** - Save multiple Roblox accounts with avatars, nicknames, favorites, drag-and-drop sorting, search and last-used information.
-- **Multi-Instance & Smart Launch Queue** - Run multiple Roblox clients and automatically wait for each client to be ready before launching the next.
-- **Launch Options** - Join games by Place ID, follow other players or join private servers using a link.
-- **Saved Games & Private Servers** - Save, edit and organize presets with automatic game name detection and remembered selections.
-- **Live Account Status** - See which accounts are online and which Roblox games they are playing.
-- **Discord Rich Presence** - Display your current game, active client count and session timer, with automatic game detection and game selection.
-- **Window Manager** - Arrange Roblox clients in compact, grid or custom layouts without Anti-AFK changing their sizes.
-- **Performance Controls** - Custom FPS limits (1-999 or Unlimited) and Low Resource Mode with minimum Roblox graphics quality.
-- **Anti-AFK** - Choose Click or Jump mode with configurable 1-15 minute intervals, including minimized-window support.
-- **Utilities & Recovery** - Session history, system tray mode, settings import/export, diagnostics and an auto-updater with rollback.
+- **Account Management** - Avatars, nicknames, favorites, sorting, search and history.
+- **Multi-Instance & Smart Launch Queue** - Run multiple clients with automatic launch sequencing.
+- **Launch Options** - Join by Place ID, follow players or use private server links.
+- **Saved Games & Servers** - Manage presets with automatic game name detection.
+- **Live Account Status** - View online accounts and their current games.
+- **Discord Rich Presence** - Display your game, client count and session timer.
+- **Window Manager** - Compact, grid and custom window layouts.
+- **Performance Controls** - Custom FPS limits and minimum graphics mode.
+- **Anti-AFK** - Click or Jump every 1-15 minutes, including minimized windows.
+- **Utilities & Recovery** - History, system tray, diagnostics, settings backup and updater rollback.
 
 ## Preview
 
