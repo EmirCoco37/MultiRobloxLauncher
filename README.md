@@ -1,4 +1,4 @@
-# Multi Roblox Launcher
+# Multi Roblox Launcher (MRL)
 
 **Closed Source | Windows 10/11 x64**
 
